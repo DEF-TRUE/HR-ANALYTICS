@@ -25,7 +25,6 @@ YearsWithCurrManager and at last Attrition Count .
 
 Data Cleaning : The data is not cleaned in Excel.However,in PowerBI,I have removed  unnecessary  the unnecessary duplicated datas from all columns, and then driven out insights from it.You need to clean the data to do the project
 
-Excel Analysis (Optional):
 
 Key Metrics Analyzed: The following key HR metrics were calculated in PowerBI:
 
