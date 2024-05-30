@@ -9,6 +9,7 @@ improvement of jobfields where comparitavely more people left ,  talent manageme
 Tools Used:
 
 Microsoft Excel
+
 Microsoft Power BI
 Data Section:
 
