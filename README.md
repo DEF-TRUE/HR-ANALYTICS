@@ -11,29 +11,32 @@ Tools Used:
 Microsoft Excel
 
 Microsoft Power BI
+
 Data Section:
+
 
 Data Source: The data for this project was obtained from an yt(youtube) channel known as Rishabh Mishra.
 
-Data Description: The data set includes information on EMP ID,Age,AgeGroup,Attrition,Business Travel,Daily 
 
+
+Data Description: [The data set includes information on EMP ID,Age,AgeGroup,Attrition,Business Travel,Daily 
 Rate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction, 
+MaritalStatus,MonthlyIncome,SalarySlab,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager and at last Attrition Count] .
 
-MaritalStatus,MonthlyIncome,SalarySlab,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,
 
-YearsWithCurrManager and at last Attrition Count .
 
 Data Cleaning : The data is not cleaned in Excel.However,in PowerBI,I have removed  unnecessary  the unnecessary duplicated datas from all columns, and then driven out insights from it.You need to clean the data to do the project
 
 
+
 Key Metrics Analyzed: The following key HR metrics were calculated in PowerBI:
 
-Attriion num of employees, rate of attrition,attrition based on SalarySab,Gender,WORKING YEARS,Jobrole as well as AVG salary and age of people who left 
+[Attriion num of employees, rate of attrition,attrition based on SalarySab,Gender,WORKING YEARS,Jobrole as well as AVG salary and age of people who left ]
 
 
 Dashboards Created: Only One was created in PowerBI and using slicer it was again analyzed for three departments:
 
-  Main DashBoard: This dashboard focuses on everything and every departments as total and KPI are same as I mentioned eariler
+  Main DashBoard: [This dashboard focuses on everything and every departments as total and KPI are same as I mentioned eariler]
   
 [Human Resource]: This dashboard focuses on datas based on human resource department  how many people left (KPI are mentioned earlier and all are same).
 
