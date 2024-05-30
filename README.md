@@ -1,7 +1,6 @@
 Project Title: HR ANALYTICS
 
-Project Description: This project aims to analyze HR data to gain insights from attrition of employees meaning how many employees left from the company for what reasons are presented AS KPI OR important Indicators FOR instance attriion num of employees,
-rate of attrition,attrition based on SalarySab,Gender,WORKING YEARS,Jobrole as well as AVG salary and age of people who left .
+Project Description: This project aims to analyze HR data to gain insights from attrition of employees meaning how many employees left from the company for what reasons are presented AS KPI OR important Indicators FOR instance attriion num of employees, rate of attrition,attrition based on SalarySab,Gender,WORKING YEARS,Jobrole as well as AVG salary and age of people who left .
 
 The insights obtained will be valuable for IT companies and firms  to make informed decisions regarding their employees monthly salary,amount of production,finding out trends, 
 
